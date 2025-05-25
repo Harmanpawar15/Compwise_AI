@@ -2,7 +2,6 @@ orderID,rank,candidate_address,subject_address,score,is_comp,user_feedback
 4755196,2.0,415 Hepatica Way,531 Des Genévriers Rue Orléans ON K4A0Z2,1.8487361669540403,1.0,1
 4723364,1.0,2738 Isle of Man Rd,1050 John F. Scott Rd Kingston ON K7L4V3,1.4640510082244873,1.0,0
 4723364,3.0,1996 McFarlane Rd,1050 John F. Scott Rd Kingston ON K7L4V3,0.9523958563804626,1.0,0
-4723364,1.0,2480 Hitchcock Rd,1050 John F. Scott Rd Kingston ON K7L4V3,1.5219861268997192,1.0,1
 4752865,1.0,716 40 St SW,8915 20 Ave SW Edmonton AB T6X2C5,3.06426739692688,1.0,0
 4752865,2.0,3116 Winspear Cres SW,8915 20 Ave SW Edmonton AB T6X2C5,3.0432634353637695,1.0,1
 4752865,3.0,1253 Adamson Dr SW,8915 20 Ave SW Edmonton AB T6X2C5,2.919597625732422,1.0,1
@@ -12,3 +11,7 @@ orderID,rank,candidate_address,subject_address,score,is_comp,user_feedback
 4755196,1.0,156 Aquarium Ave,531 Des Genévriers Rue Orléans ON K4A0Z2,2.437195301055908,1.0,1
 4755196,2.0,666 Decoeur Drive ,531 Des Genévriers Rue Orléans ON K4A0Z2,1.3048744201660156,0.0,1
 4755196,3.0,375 Hepatica Way ,531 Des Genévriers Rue Orléans ON K4A0Z2,1.3048744201660156,0.0,1
+4723364,1.0,2480 Hitchcock Rd,1050 John F. Scott Rd Kingston ON K7L4V3,1.7448604106903076,1.0,1
+4756829,1.0,178 Joshua St,340 Axis Way Ottawa ON K1W 0J9,2.973247528076172,1.0,1
+4756829,2.0,283 Falsetto St,340 Axis Way Ottawa ON K1W 0J9,2.3594465255737305,1.0,1
+4756829,3.0,783 Percifor Way,340 Axis Way Ottawa ON K1W 0J9,2.2056474685668945,1.0,1
