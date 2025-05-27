@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🏘️ CompWise_AI
 
 **CompWise_AI** is an AI-powered dashboard for analyzing and explaining comparable property rankings based on machine learning and natural language explanations. Forked and customized from an original ML property-ranking system, this version emphasizes interactivity and visualization with a polished Streamlit frontend.
@@ -78,9 +78,5 @@ streamlit run app.py
 
 Built with ❤️ by Harman
 
-=======
-# Compwise AI
 
-This project is an interactive AI-powered tool for evaluating and explaining comparable property rankings.
->>>>>>> a026970 (readme updated)
 
