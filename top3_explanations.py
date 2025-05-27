@@ -76,7 +76,7 @@ def find_raw_values(order_id, candidate_address):
 def gpt_explanation(score, pos_feats, neg_feats, candidate_address, subject_address):
     try:
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4.1",
             messages=[
                 {
                     "role": "system",
@@ -122,7 +122,7 @@ def gpt_explanation(score, pos_feats, neg_feats, candidate_address, subject_addr
 
     try:
         response = client.chat.completions.create(
-            model="gpt-3.5-turbo",
+            model="gpt-4.1",
             messages=[
                 {
                     "role": "system",
@@ -206,3 +206,4 @@ print(top3_df["is_comp"].value_counts())
 false_positives = top3_df[top3_df["is_comp"] == 0][["orderID", "candidate_address"]]
 print("\nFalse Positives (Top-3 predicted but not comps):")
 print(false_positives.to_string(index=False))
+

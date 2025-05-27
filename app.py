@@ -231,3 +231,6 @@ if st.button("🗑️ Reset Feedback + Rebuild"):
     subprocess.run(["python3", "data_pipeline.py"])
     st.success("Model reset to original state.")
     st.rerun()
+
+
+
